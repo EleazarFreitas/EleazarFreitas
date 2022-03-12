@@ -2,7 +2,7 @@
 
 ### Olá!
 
-<div align=center>
+<div align=center style=background-color:red;>
 Sou Eleazar Freitas - <strong>Estudante Front-End</strong>.
 
 Fique à vontade para melhorar qualquer código meu aqui! 🤗
@@ -11,7 +11,9 @@ Fique à vontade para melhorar qualquer código meu aqui! 🤗
   
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/html5.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/css.png">
-
+ 
+<p></p>
+  
 <strong>Estudando em breve:<strong/>
   
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/bootstrap.png">
