@@ -4,9 +4,9 @@
 
 <div align=center style=background-color:red;>
 Sou Eleazar Freitas - <strong>Estudante Front-End</strong>.
-
-Fique à vontade para otimizar qualquer código aqui! 🤗
-  
+<p></p>
+Fique à vontade para otimizar qualquer código aqui!<br>Toda sugestão ou dica será bem-vinda! 🤗
+<h1></h1>
 <strong>Estudando no momento:<strong/>
   
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/html5.png">
