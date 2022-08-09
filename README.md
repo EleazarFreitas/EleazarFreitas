@@ -3,7 +3,7 @@
 ### Olá!
 
 <div align=center style=background-color:red;>
-Sou Eleazar Freitas - <strong>Estudante Front-End</strong>.
+Sou Eleazar Freitas - <strong>Estudante de desenvolvimento web fullstack</strong>.
 <p></p>
 Fique à vontade para otimizar qualquer código aqui!<br>Toda sugestão ou dica será bem-vinda! 🤗
 <p></p>
