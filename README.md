@@ -20,7 +20,6 @@ Fique à vontade para otimizar qualquer código aqui!<br>Toda sugestão ou dica 
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/nodejs.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/ts.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/reactjs.png">
-<img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/angular.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/vue.png">
 <br>  
 <img width align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/footer.gif">
