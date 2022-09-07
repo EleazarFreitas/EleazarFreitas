@@ -18,7 +18,6 @@ Fique à vontade para otimizar qualquer código aqui!<br>Toda sugestão ou dica 
 <strong>Estudando em breve:<strong/>
 <br>  
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/nodejs.png">
-<img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/jquery.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/ts.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/reactjs.png">
 <img width=50px align=center src="https://github.com/EleazarFreitas/Img-README/blob/main/img-README/angular.png">
